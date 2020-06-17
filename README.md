@@ -14,7 +14,7 @@ INSTALLATION INSTRUCTIONS FOR CHROME or OPERA :
 4. load unpacked and load the directory. Extension should start showing up with AVI A logo.
 
 HOW IT WORKS : 
-1. Check texts.json format.
+1. Check texts.json format. https://github.com/bassi-avi/autopass_js_extension/blob/master/texts.json
 2. keyname is not important, but please provide descriptive name. e.g. Facebook for Facebook login
 3. add in a login_identifier which essentially looks for that id or class name in the page.
 4. Enter email_query, pwd_query adn login_btn_query which identifies email and password field class/ids.
