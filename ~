@@ -1,0 +1,28 @@
+{
+  "avi_controller": {
+    "login_identifier": ".avirights",
+    "email_query": ".sel-login-avi-username",
+    "pwd_query": ".sel-login-avi-password",
+    "login_btn_query": ".sel-submit-button",
+    "email": "admin",
+    "pwd": "admin"
+  },
+  "avi_controller_2": {
+    "login_identifier": ".avi-welcome",
+    "email_query": ".sel-login-avi-username",
+    "pwd_query": ".sel-login-avi-password",
+    "login_btn_query": ".sel-submit-button",
+    "email": "admin",
+    "pwd": "admin"
+  },
+  "vmware": {
+    "login_identifier": "#sspiCheckbox",
+    "email_query": "#username",
+    "pwd_query": "#password",
+    "login_btn_query": "#submit",
+    "email": "saurabh@avilab.com",
+    "pwd": "avi123"
+  }
+}
+
+
